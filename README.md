@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
@@ -179,27 +178,30 @@
       <div class="card">
         <h3>インフォームドコンセント付き添い</h3>
         <p>医師からの説明を一緒に聞き、内容の理解をサポート。必要に応じてご家族への説明も代行いたします。</p>
-        <img src="https://source.unsplash.com/featured/?doctor,consultation" alt="医師との相談">
+        <img src="https://images.unsplash.com/photo-1588776814546-ec7d8e52337b?auto=format&fit=crop&w=900&q=80" alt="医師との相談">
       </div>
       <div class="card">
         <h3>通院付添・送迎</h3>
         <p>病院への通院に付き添い、移動の負担を軽減。安心して医療を受けていただけるようサポートします。</p>
-        <img src="https://source.unsplash.com/featured/?transport,elderly" alt="送迎サポート">
+        <img src="https://images.unsplash.com/photo-1618498082410-9023b7d7f36d?auto=format&fit=crop&w=900&q=80" alt="送迎サポート">
       </div>
       <div class="card">
         <h3>家族代行</h3>
         <p>ご家族に代わり、生活の見守りや買い物などをサポート。遠方にお住まいのご家族にも安心をお届けします。</p>
-        <img src="https://source.unsplash.com/featured/?elderly,care" alt="高齢者支援">
+        <img src="https://images.unsplash.com/photo-1603415526960-f7e0328febb4?auto=format&fit=crop&w=900&q=80" alt="高齢者支援">
       </div>
       <div class="card">
         <h3>頭痛改善マッサージ</h3>
         <p>慢性的な頭痛を緩和するためのリラクゼーションマッサージ。丁寧な施術で心と身体を整えます。</p>
-        <video src="https://cdn.pixabay.com/video/2024/02/12/200219-910891847_large.mp4" controls poster="https://cdn.pixabay.com/photo/2022/10/10/11/41/headache-7510659_1280.jpg"></video>
+        <video controls poster="https://cdn.pixabay.com/photo/2022/10/10/11/41/headache-7510659_1280.jpg">
+          <source src="https://cdn.pixabay.com/video/2024/02/12/200219-910891847_large.mp4" type="video/mp4">
+          お使いのブラウザでは動画を再生できません。
+        </video>
       </div>
       <div class="card">
         <h3>健康相談</h3>
         <p>日常の健康不安や生活習慣に関する相談を受付中。専門スタッフが親身にアドバイスいたします。</p>
-        <img src="https://source.unsplash.com/featured/?healthcare,consultation" alt="健康相談">
+        <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=900&q=80" alt="健康相談">
       </div>
     </section>
 
