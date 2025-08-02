@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
@@ -178,29 +179,27 @@
       <div class="card">
         <h3>インフォームドコンセント付き添い</h3>
         <p>医師からの説明を一緒に聞き、内容の理解をサポート。必要に応じてご家族への説明も代行いたします。</p>
-        <img src="https://cdn.pixabay.com/photo/2020/08/13/17/24/doctor-5483564_1280.jpg" alt="医師との相談">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Doctor_consultation.jpg/800px-Doctor_consultation.jpg" alt="医師との相談">
       </div>
       <div class="card">
         <h3>通院付添・送迎</h3>
         <p>病院への通院に付き添い、移動の負担を軽減。安心して医療を受けていただけるようサポートします。</p>
-        <img src="https://cdn.pixabay.com/photo/2017/02/10/16/23/elderly-2051500_1280.jpg" alt="送迎サポート">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Wheelchair_ramp_in_use.jpg/800px-Wheelchair_ramp_in_use.jpg" alt="送迎サポート">
       </div>
       <div class="card">
         <h3>家族代行</h3>
         <p>ご家族に代わり、生活の見守りや買い物などをサポート。遠方にお住まいのご家族にも安心をお届けします。</p>
-        <img src="https://cdn.pixabay.com/photo/2018/01/15/07/51/senior-3082431_1280.jpg" alt="高齢者支援">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Old_people_chatting.jpg/800px-Old_people_chatting.jpg" alt="高齢者支援">
       </div>
       <div class="card">
         <h3>頭痛改善マッサージ</h3>
         <p>慢性的な頭痛を緩和するためのリラクゼーションマッサージ。丁寧な施術で心と身体を整えます。</p>
-        <video controls poster="https://cdn.pixabay.com/photo/2021/09/04/05/55/woman-6597274_1280.jpg">
-          <source src="https://cdn.pixabay.com/video/2023/01/11/145809-793885182_large.mp4" type="video/mp4">
-          お使いのブラウザでは動画を再生できません。
-        </video>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Headache_pain.jpg/800px-Headache_pain.jpg" alt="頭痛マッサージ">
       </div>
       <div class="card">
         <h3>健康相談</h3>
         <p>日常の健康不安や生活習慣に関する相談を受付中。専門スタッフが親身にアドバイスいたします。</p>
-        <img src="https://cdn.pixabay.com/photo/2017/09/04/18/53/people-2719763_1280.jpg" alt="健康相談">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nurse_consultation.jpg/800px-Nurse_consultation.jpg" alt="健康相談">
       </div>
     </section>
+
