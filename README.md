@@ -178,81 +178,29 @@
       <div class="card">
         <h3>インフォームドコンセント付き添い</h3>
         <p>医師からの説明を一緒に聞き、内容の理解をサポート。必要に応じてご家族への説明も代行いたします。</p>
-        <img src="https://images.unsplash.com/photo-1588776814546-ec7d8e52337b?auto=format&fit=crop&w=900&q=80" alt="医師との相談">
+        <img src="https://cdn.pixabay.com/photo/2020/08/13/17/24/doctor-5483564_1280.jpg" alt="医師との相談">
       </div>
       <div class="card">
         <h3>通院付添・送迎</h3>
         <p>病院への通院に付き添い、移動の負担を軽減。安心して医療を受けていただけるようサポートします。</p>
-        <img src="https://images.unsplash.com/photo-1618498082410-9023b7d7f36d?auto=format&fit=crop&w=900&q=80" alt="送迎サポート">
+        <img src="https://cdn.pixabay.com/photo/2017/02/10/16/23/elderly-2051500_1280.jpg" alt="送迎サポート">
       </div>
       <div class="card">
         <h3>家族代行</h3>
         <p>ご家族に代わり、生活の見守りや買い物などをサポート。遠方にお住まいのご家族にも安心をお届けします。</p>
-        <img src="https://images.unsplash.com/photo-1603415526960-f7e0328febb4?auto=format&fit=crop&w=900&q=80" alt="高齢者支援">
+        <img src="https://cdn.pixabay.com/photo/2018/01/15/07/51/senior-3082431_1280.jpg" alt="高齢者支援">
       </div>
       <div class="card">
         <h3>頭痛改善マッサージ</h3>
         <p>慢性的な頭痛を緩和するためのリラクゼーションマッサージ。丁寧な施術で心と身体を整えます。</p>
-        <video controls poster="https://cdn.pixabay.com/photo/2022/10/10/11/41/headache-7510659_1280.jpg">
-          <source src="https://cdn.pixabay.com/video/2024/02/12/200219-910891847_large.mp4" type="video/mp4">
+        <video controls poster="https://cdn.pixabay.com/photo/2021/09/04/05/55/woman-6597274_1280.jpg">
+          <source src="https://cdn.pixabay.com/video/2023/01/11/145809-793885182_large.mp4" type="video/mp4">
           お使いのブラウザでは動画を再生できません。
         </video>
       </div>
       <div class="card">
         <h3>健康相談</h3>
         <p>日常の健康不安や生活習慣に関する相談を受付中。専門スタッフが親身にアドバイスいたします。</p>
-        <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=900&q=80" alt="健康相談">
+        <img src="https://cdn.pixabay.com/photo/2017/09/04/18/53/people-2719763_1280.jpg" alt="健康相談">
       </div>
     </section>
-
-    <section id="pricing">
-      <h2>料金表</h2>
-      <div class="card">
-        <ul>
-          <li>インフォームドコンセント付き添い：5,000円／回</li>
-          <li>通院付添・送迎：3,000円〜／回（距離により変動）</li>
-          <li>家族代行：2,500円〜／回</li>
-          <li>頭痛改善マッサージ：4,000円／30分</li>
-          <li>健康相談：無料（初回30分）</li>
-        </ul>
-      </div>
-    </section>
-
-    <section id="testimonials">
-      <h2>お客様の声</h2>
-      <div class="card testimonial">
-        <p>「母の通院に付き添ってもらい、とても安心できました。対応も丁寧で助かりました。」<br>— 50代女性</p>
-      </div>
-      <div class="card testimonial">
-        <p>「頭痛が軽減され、仕事にも集中できるようになりました。ありがとうございます。」<br>— 30代男性</p>
-      </div>
-    </section>
-
-    <section id="contact">
-      <h2>お問い合わせ・ご予約</h2>
-      <div class="card">
-        <p>サービスに関するご質問やご予約は、以下よりお気軽にご連絡ください。</p>
-        <form>
-          <input type="text" name="name" placeholder="お名前" required>
-          <input type="email" name="email" placeholder="メールアドレス" required>
-          <textarea name="message" placeholder="お問い合わせ内容" rows="5" required></textarea>
-          <button type="submit">送信</button>
-        </form>
-        <p style="margin-top: 20px;">電話：012-345-6789<br>Email：info@example.com</p>
-      </div>
-    </section>
-
-    <section>
-      <h2>アクセス</h2>
-      <div class="card">
-        <p>当事業所へのアクセスマップはこちら：</p>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3242.858650223612!2d139.74477!3d35.658034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b6d4f8d88c5%3A0x2d92e8e7e3511122!2z44CSMTAwLTAwMTIg5p2x5Lqs6YO95riv5Yy65pel5pys55S677yT5LiB55uu77yR4oiS77yR77yX!5e0!3m2!1sja!2sjp!4v1615331778936!5m2!1sja!2sjp" allowfullscreen="" loading="lazy"></iframe>
-      </div>
-    </section>
-  </div>
-
-  <footer>
-    <p>&copy; 2025 安心サポートサービス. All rights reserved.</p>
-  </footer>
-</body>
-</html>
